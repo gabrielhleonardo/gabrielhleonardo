@@ -9,14 +9,13 @@
 ### Estudo estas tecnologias hoje em dia: 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  />
-    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  />
-    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"  />
-    <img align="center" alt="Sales Force" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" />
     <img align="center" alt="SQLSERVER" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-     <img align="center" alt="GOOGLE CLOUD" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img align="center" alt="GOOGLE CLOUD" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+     <img align="center" alt="MICROSOFT EXCEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)"  />
+     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  />
+   
 </div>
 <br>
 
-Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor. Fique à vontade para entrar em contato comigo para colaborações ou discussões técnicas. Vamos codar juntos! 
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor. Fique à vontade para entrar em contato comigo para colaborações ou discussões técnicas. 
 - 📫 How to reach me: gabrielhelo@gmail.com
